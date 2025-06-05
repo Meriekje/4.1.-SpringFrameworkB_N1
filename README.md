@@ -17,3 +17,7 @@ This project is a simple Spring Boot application that demonstrates how to use RE
 ## Requirements
 - Java 17+
 - Maven
+
+## Links
+- https://www.baeldung.com/spring-request-param
+- https://www.baeldung.com/spring-optional-path-variables
